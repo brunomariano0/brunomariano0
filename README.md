@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Bruno Mariano 👋
 
 
-- 🔭 I’m currently working on Front End
-- 🌱 I’m currently learning JavaScript and React
-- 👯 I’m looking to collaborate on JavaScript
-- 🤔 I’m looking for help with JavaScript
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on Kotlin
+- 🤔 I’m looking for help with Kotlin
 
 <div>
   <a href="https://github.com/brunomariano0">
