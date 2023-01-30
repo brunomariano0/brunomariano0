@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Bruno Mariano 👋
 
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Kotlin
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Dart
+- 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Kotlin
 
 <div>
