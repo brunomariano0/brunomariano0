@@ -6,6 +6,36 @@
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with Kotlin
 
+- Desenvolvedor Web | HTML | CSS | JavaScript | ReactJS 🚀
+
+Olá! 👋 Me chamo Bruno, um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Com uma sólida experiência em desenvolvimento, meu foco principal está em HTML, CSS e JavaScript, combinados para construir interfaces modernas e interativas.
+
+👨‍💻 Experiência Profissional:
+
+[Workana] | [Freelance] 
+
+Desenvolvimento e aprimoramento de soluções web, implementando as melhores práticas em HTML5, CSS3 e JavaScript para entregar experiências de usuário excepcionais.
+
+🛠️ Tecnologias:
+
+HTML: Transformo conceitos em código estruturado e semântico.
+
+CSS: Estilizo páginas com elegância, garantindo uma experiência visualmente atraente.
+
+JavaScript: Adoto abordagens dinâmicas para tornar as aplicações mais responsivas e eficientes.
+
+ReactJS: Tenho conhecimentos básicos nesta biblioteca, contribuindo para a criação de interfaces modernas e reativas.
+
+Tailwind CSS: Utilizo este framework CSS com conhecimentos básicos, buscando simplificar e acelerar o processo de desenvolvimento de estilos.
+
+📚 Educação:
+
+[Uninter] | [ Em Andamento - 2° Sementre ] 
+
+Estou sempre em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades. Se você está procurando um desenvolvedor apaixonado por criar soluções inovadoras, estou pronto para contribuir em projetos desafiadores.
+
+Vamos conectar e colaborar para impulsionar a excelência no desenvolvimento web! 🚀
+
 <div>
   <a href="https://github.com/brunomariano0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunomariano0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
