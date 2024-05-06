@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Bruno Mariano 👋
 
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with Kotlin
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Python
+- 🤔 I’m looking for help with Python
 
-- Desenvolvedor Web | HTML | CSS | JavaScript | ReactJS 🚀
+- Desenvolvedor Python | HTML | CSS | JavaScript | ReactJS 🚀
 
 Olá! 👋 Me chamo Bruno, um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Com uma sólida experiência em desenvolvimento, meu foco principal está em HTML, CSS e JavaScript, combinados para construir interfaces modernas e interativas.
 
